@@ -1,0 +1,30 @@
+{
+  "name": "epixor.se",
+  "version": "0.0.1",
+  "description": "The source for the website epixor.se",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpiX0R/epixor.se.git"
+  },
+  "keywords": [
+    "epixor.se",
+    "epixor",
+    "website"
+  ],
+  "author": "Jakob \"EpiX0R\" Eriksson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EpiX0R/epixor.se/issues"
+  },
+  "homepage": "https://github.com/EpiX0R/epixor.se#readme",
+  "dependencies": {
+    "vue": "^3.2.20"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.20"
+  }
+}
