@@ -16,8 +16,7 @@
     "boilerplate",
     "website",
     "vite",
-    "vue-router",
-    "buefy"
+    "vue-router"
   ],
   "author": "Jakob \"EpiX0R\" Eriksson",
   "license": "Apache-2.0",
